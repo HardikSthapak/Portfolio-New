@@ -1,0 +1,43 @@
+
+/* Add your profile image here */
+.Photo{
+    background-image: url('./Photo.jpg');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('./task1.png');
+    cursor: none;    
+}
+.project2{
+    background-image: url('./task2.png');
+    cursor: none;
+}
+.project3{
+    background-image: url('./task3.png');
+    cursor: none;
+}
+.project4{
+    background-image: url('./task4.png');
+    cursor: none;
+}
+.project5{
+    background-image: url('./task5.png');
+    cursor: none;
+}
+.project6{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1{
+    background-image: url('https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg');
+    cursor: none;
+}
+.misc2{
+    background-image: url('https://www.tutorialrepublic.com/lib/images/bootstrap-5.0-illustration.png');
+    cursor: none;
+}
+.misc3{
+    background-image: url('https://cdn.geekboots.com/geek/javascript-meta-1652702081069.jpg');
+    cursor: none;
+}
